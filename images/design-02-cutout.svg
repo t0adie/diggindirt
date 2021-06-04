@@ -3,10 +3,10 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 500 500" style="enable-background:new 0 0 500 500;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:none;stroke:#FFFFFF;stroke-width:4;stroke-miterlimit:10;}
-	.st1{fill:none;stroke:#FFFFFF;stroke-width:2;stroke-miterlimit:10;}
-	.st2{fill:#FFFFFF;}
-	.st3{fill:none;stroke:#FFFFFF;stroke-width:6;stroke-linecap:square;stroke-miterlimit:10;}
+	.st0{fill:none;stroke:#000;stroke-width:4;stroke-miterlimit:10;}
+	.st1{fill:none;stroke:#000;stroke-width:2;stroke-miterlimit:10;}
+	.st2{fill:#000;}
+	.st3{fill:none;stroke:#000;stroke-width:6;stroke-linecap:square;stroke-miterlimit:10;}
 </style>
 <g>
 	<polygon class="st0" points="350.13,134.84 304.31,107.15 128.35,398.34 126.7,445.2 136.55,447.52 174.18,426.03 	"/>
